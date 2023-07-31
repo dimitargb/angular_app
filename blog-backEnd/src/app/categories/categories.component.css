@@ -1,0 +1,10 @@
+.btn-info{
+    height: 32px;
+    border: none;
+    font-size: 12px;
+    background-color:rgb(248, 222, 199);
+}
+
+.col-md-2{
+    width: 200;
+}

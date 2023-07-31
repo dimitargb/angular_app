@@ -1,0 +1,8 @@
+.card{
+    height: 200px;
+    cursor: pointer;
+}
+
+.card-body{
+    background-color: #ffc700;
+}
